@@ -27,8 +27,8 @@ module.exports.authors = [
 
 module.exports.images = [
     {
-      url: 'https://res.cloudinary.com/deuyeqft4/image/upload/v1657005584/Campsite/k9kjjtmaxsz6wsq998hz.jpg',
-      filename: 'Campsite/k9kjjtmaxsz6wsq998hz'
+      url: 'https://res.cloudinary.com/deuyeqft4/image/upload/v1657005604/Campsite/nmu6jokhyeu7crgwqqcy.jpg',
+      filename: 'Campsite/nmu6jokhyeu7crgwqqcy'
     },
     {
       url: 'https://res.cloudinary.com/deuyeqft4/image/upload/v1657005586/Campsite/vij5qycgd3sfbilq8qfu.jpg',
